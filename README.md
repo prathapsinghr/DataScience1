@@ -1,4 +1,4 @@
-# Hanhan_Data_Science_Resources
+# Prathap_Data_Science_Resources
 helpful resources for (big) data science
 
 
